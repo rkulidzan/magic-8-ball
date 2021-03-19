@@ -29,7 +29,7 @@ while play_again == 'yes':
     elif response == 4:
         print("Sure... alright then.")
     elif response == 5:
-        print("Yes, it will rain tomorrow.")
+        print("Ugh, if it has to.")
     elif response == 6:
         print("Nah.")
     elif response == 7:
